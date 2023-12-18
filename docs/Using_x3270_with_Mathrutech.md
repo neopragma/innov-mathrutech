@@ -72,17 +72,7 @@ c3270 is a command-line application and you are working in a terminal window. Th
 
 
 
-# x
 
-23.229.8.213   8723
-
-MATEVA    RAK734
-
-/Users/davidnicolette/.bin/
-
-
-
-IND$FILE GET JOBLIB(ALLOCPS) ASCII CRLF
 
 
 
