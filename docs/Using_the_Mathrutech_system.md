@@ -5,8 +5,8 @@ When your userid was set up on Mathrutech's system they sent an email containing
 IP Address: 23.229.8.213  
 Port: 8723
 
-User Id: [provided]  	MATEVA
-Password: [provided]  	RAK734
+User Id: [provided]  
+Password: [provided] 
 DB2 Database: DBMATE1  
 Tablespace: TSMATEVA  
 DB2 Plans: MATEVAA, MATEVAB, MATEVAC, MATEVAD  
